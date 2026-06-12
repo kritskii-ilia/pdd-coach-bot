@@ -8,3 +8,6 @@ assets/imported/
 content/generated/
 .cache_pdd_russia/
 
+
+.env
+.env.local
