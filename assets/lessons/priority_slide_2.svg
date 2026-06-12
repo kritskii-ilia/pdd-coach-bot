@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#f5f2ea"/>
+  <text x="700" y="78" text-anchor="middle" font-family="DejaVu Sans" font-size="42" font-weight="700" fill="#1f2b33">Знаки приоритета: что помнить</text>
+  
+        <polygon points="290,240 360,170 430,240 360,310" fill="#f0c419" stroke="#1f2b33" stroke-width="10"/>
+        <polygon points="290,510 360,390 430,510" fill="#ffffff" stroke="#d93b2d" stroke-width="16"/>
+        <rect x="780" y="185" width="430" height="520" rx="26" fill="#fffdf8" stroke="#d8ccb1" stroke-width="4"/>
+        <text x="860" y="270" text-anchor="start" font-family="DejaVu Sans" font-size="30" fill="#1f2b33">Главная дорога:</text>
+<text x="860" y="314" text-anchor="start" font-family="DejaVu Sans" font-size="30" fill="#1f2b33">кто на ней, тот имеет</text>
+<text x="860" y="358" text-anchor="start" font-family="DejaVu Sans" font-size="30" fill="#1f2b33">преимущество перед</text>
+<text x="860" y="402" text-anchor="start" font-family="DejaVu Sans" font-size="30" fill="#1f2b33">теми, кто на второстепенной</text>
+        <text x="860" y="520" text-anchor="start" font-family="DejaVu Sans" font-size="28" fill="#1f2b33">Уступите дорогу:</text>
+<text x="860" y="562" text-anchor="start" font-family="DejaVu Sans" font-size="28" fill="#1f2b33">не продолжай движение,</text>
+<text x="860" y="604" text-anchor="start" font-family="DejaVu Sans" font-size="28" fill="#1f2b33">если заставишь другого</text>
+<text x="860" y="646" text-anchor="start" font-family="DejaVu Sans" font-size="28" fill="#1f2b33">изменить скорость или траекторию</text>
+        
+</svg>

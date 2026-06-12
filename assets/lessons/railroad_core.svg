@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#f7f0ed"/>
+  <text x="700" y="85" text-anchor="middle" font-family="DejaVu Sans" font-size="44" font-weight="700" fill="#332521">Железнодорожный переезд</text>
+  <line x1="180" y1="760" x2="1220" y2="760" stroke="#5b6166" stroke-width="16"/>
+  <line x1="180" y1="830" x2="1220" y2="830" stroke="#5b6166" stroke-width="16"/>
+  <line x1="300" y1="720" x2="300" y2="870" stroke="#7a5b3f" stroke-width="12"/>
+  <line x1="500" y1="720" x2="500" y2="870" stroke="#7a5b3f" stroke-width="12"/>
+  <line x1="700" y1="720" x2="700" y2="870" stroke="#7a5b3f" stroke-width="12"/>
+  <line x1="900" y1="720" x2="900" y2="870" stroke="#7a5b3f" stroke-width="12"/>
+  <line x1="1100" y1="720" x2="1100" y2="870" stroke="#7a5b3f" stroke-width="12"/>
+  <rect x="180" y="250" width="440" height="320" rx="28" fill="#d9432c"/>
+  <text x="400" y="360" text-anchor="middle" font-family="DejaVu Sans" font-size="34" fill="#ffffff">Не выезжай</text>
+  <text x="400" y="420" text-anchor="middle" font-family="DejaVu Sans" font-size="26" fill="#ffffff">если шлагбаум закрыт,</text>
+  <text x="400" y="460" text-anchor="middle" font-family="DejaVu Sans" font-size="26" fill="#ffffff">горит запрет, есть дежурный</text>
+  <text x="400" y="500" text-anchor="middle" font-family="DejaVu Sans" font-size="26" fill="#ffffff">или затор за переездом</text>
+  <rect x="770" y="250" width="450" height="320" rx="28" fill="#456b8c"/>
+  <text x="995" y="360" text-anchor="middle" font-family="DejaVu Sans" font-size="34" fill="#ffffff">Где остановиться</text>
+  <text x="995" y="420" text-anchor="middle" font-family="DejaVu Sans" font-size="26" fill="#ffffff">5 м до шлагбаума</text>
+  <text x="995" y="460" text-anchor="middle" font-family="DejaVu Sans" font-size="26" fill="#ffffff">или 10 м до рельса,</text>
+  <text x="995" y="500" text-anchor="middle" font-family="DejaVu Sans" font-size="26" fill="#ffffff">если шлагбаума нет</text>
+</svg>

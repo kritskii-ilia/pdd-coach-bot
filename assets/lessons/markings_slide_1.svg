@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#edf1f4"/>
+  <text x="700" y="78" text-anchor="middle" font-family="DejaVu Sans" font-size="42" font-weight="700" fill="#1f2b33">Разметка: сплошная и прерывистая</text>
+  
+        <rect x="150" y="200" width="1100" height="220" rx="30" fill="#4e5861"/>
+        <line x1="230" y1="310" x2="1170" y2="310" stroke="#ffffff" stroke-width="18"/>
+        <text x="700" y="390" text-anchor="middle" font-family="DejaVu Sans" font-size="32" fill="#fff">1.1 Сплошная: пересекать нельзя</text>
+        <rect x="150" y="520" width="1100" height="220" rx="30" fill="#4e5861"/>
+        <line x1="230" y1="630" x2="320" y2="630" stroke="#ffffff" stroke-width="18"/>
+        <line x1="400" y1="630" x2="490" y2="630" stroke="#ffffff" stroke-width="18"/>
+        <line x1="570" y1="630" x2="660" y2="630" stroke="#ffffff" stroke-width="18"/>
+        <line x1="740" y1="630" x2="830" y2="630" stroke="#ffffff" stroke-width="18"/>
+        <line x1="910" y1="630" x2="1000" y2="630" stroke="#ffffff" stroke-width="18"/>
+        <text x="700" y="710" text-anchor="middle" font-family="DejaVu Sans" font-size="32" fill="#fff">1.5 Прерывистая: перестроение разрешено</text>
+        
+</svg>

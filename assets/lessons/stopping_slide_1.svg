@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#f5f2ea"/>
+  <text x="700" y="78" text-anchor="middle" font-family="DejaVu Sans" font-size="42" font-weight="700" fill="#1f2b33">Остановка: где нельзя</text>
+  
+        <circle cx="280" cy="300" r="130" fill="#d9432c"/>
+        <line x1="190" y1="390" x2="370" y2="210" stroke="#ffffff" stroke-width="28"/>
+        <text x="520" y="250" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">Пешеходный переход и 5 м перед ним</text>
+        <text x="520" y="360" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">Перекрёсток и 5 м от края</text>
+<text x="520" y="406" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">пересекаемой проезжей части</text>
+        <text x="520" y="510" text-anchor="start" font-family="DejaVu Sans" font-size="30" fill="#1f2b33">Места, где закроешь знак,</text>
+<text x="520" y="554" text-anchor="start" font-family="DejaVu Sans" font-size="30" fill="#1f2b33">светофор, обзор или проход пешеходам</text>
+        
+</svg>

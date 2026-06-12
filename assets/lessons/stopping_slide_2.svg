@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#f5f2ea"/>
+  <text x="700" y="78" text-anchor="middle" font-family="DejaVu Sans" font-size="42" font-weight="700" fill="#1f2b33">Остановка и стоянка: как различать</text>
+  
+        <rect x="180" y="220" width="420" height="500" rx="30" fill="#2c8b72"/>
+        <rect x="800" y="220" width="420" height="500" rx="30" fill="#456b8c"/>
+        <text x="390" y="340" text-anchor="middle" font-family="DejaVu Sans" font-size="40" fill="#fff">Остановка</text>
+        <text x="390" y="430" text-anchor="middle" font-family="DejaVu Sans" font-size="30" fill="#fff">до 5 минут</text>
+<text x="390" y="474" text-anchor="middle" font-family="DejaVu Sans" font-size="30" fill="#fff">или для посадки,</text>
+<text x="390" y="518" text-anchor="middle" font-family="DejaVu Sans" font-size="30" fill="#fff">высадки, загрузки</text>
+        <text x="1010" y="340" text-anchor="middle" font-family="DejaVu Sans" font-size="40" fill="#fff">Стоянка</text>
+        <text x="1010" y="430" text-anchor="middle" font-family="DejaVu Sans" font-size="30" fill="#fff">дольше 5 минут</text>
+<text x="1010" y="474" text-anchor="middle" font-family="DejaVu Sans" font-size="30" fill="#fff">без этих причин</text>
+        <text x="700" y="850" text-anchor="middle" font-family="DejaVu Sans" font-size="28" fill="#1f2b33">На экзамене сначала ищи запрет места, а уже потом считай минуты</text>
+        
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#edf5ef"/>
+  <text x="700" y="78" text-anchor="middle" font-family="DejaVu Sans" font-size="42" font-weight="700" fill="#1f2b33">Остановка маршрутного транспорта</text>
+  
+        <rect x="160" y="320" width="460" height="250" rx="32" fill="#456b8c"/>
+        <circle cx="260" cy="600" r="40" fill="#26343f"/>
+        <circle cx="520" cy="600" r="40" fill="#26343f"/>
+        <rect x="240" y="380" width="90" height="70" fill="#d9eefb"/>
+        <rect x="360" y="380" width="90" height="70" fill="#d9eefb"/>
+        <rect x="480" y="380" width="90" height="70" fill="#d9eefb"/>
+        <text x="760" y="330" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">В населённом пункте автобус,</text>
+<text x="760" y="376" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">начинающий движение от остановки,</text>
+<text x="760" y="422" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">имеет преимущество</text>
+        <text x="760" y="520" text-anchor="start" font-family="DejaVu Sans" font-size="30" fill="#1f2b33">Но рядом с остановкой всегда жди</text>
+<text x="760" y="564" text-anchor="start" font-family="DejaVu Sans" font-size="30" fill="#1f2b33">скрытого пешехода из-за автобуса</text>
+        
+</svg>

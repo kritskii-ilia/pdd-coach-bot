@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#eef3f6"/>
+  <text x="700" y="85" text-anchor="middle" font-family="DejaVu Sans" font-size="44" font-weight="700" fill="#24313d">Первая помощь: порядок</text>
+  <g font-family="DejaVu Sans">
+    <rect x="150" y="180" width="1100" height="110" rx="22" fill="#c84c2b"/>
+    <rect x="150" y="340" width="1100" height="110" rx="22" fill="#de9b22"/>
+    <rect x="150" y="500" width="1100" height="110" rx="22" fill="#2c8b72"/>
+    <rect x="150" y="660" width="1100" height="110" rx="22" fill="#456b8c"/>
+    <text x="700" y="248" text-anchor="middle" font-size="34" fill="#fff">1. Обеспечь безопасность места</text>
+    <text x="700" y="408" text-anchor="middle" font-size="34" fill="#fff">2. Проверь сознание и дыхание</text>
+    <text x="700" y="568" text-anchor="middle" font-size="34" fill="#fff">3. Вызови 112 и останови сильное кровотечение</text>
+    <text x="700" y="728" text-anchor="middle" font-size="34" fill="#fff">4. Без нужды не вытаскивай пострадавшего</text>
+    <text x="700" y="875" text-anchor="middle" font-size="28" fill="#24313d">На экзамене важнее безопасная последовательность, чем «героизм».</text>
+  </g>
+</svg>

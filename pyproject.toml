@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pdd-coach-bot"
+version = "0.1.0"
+description = "Autonomous Telegram study coach for Russian driving theory"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+  "python-telegram-bot[job-queue,socks]>=21.7,<22",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+]
+
+[tool.setuptools]
+packages = ["pdd_coach_bot"]

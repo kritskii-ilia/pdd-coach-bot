@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+data/
+assets/imported/
+content/generated/
+.cache_pdd_russia/
+

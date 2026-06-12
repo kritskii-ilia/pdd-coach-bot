@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#eef4f1"/>
+  <text x="700" y="78" text-anchor="middle" font-family="DejaVu Sans" font-size="42" font-weight="700" fill="#1f2b33">Светофор: как решать задачу</text>
+  
+        <rect x="180" y="180" width="1040" height="110" rx="22" fill="#c84c2b"/>
+        <rect x="180" y="340" width="1040" height="110" rx="22" fill="#de9b22"/>
+        <rect x="180" y="500" width="1040" height="110" rx="22" fill="#2c8b72"/>
+        <rect x="180" y="660" width="1040" height="110" rx="22" fill="#456b8c"/>
+        <text x="700" y="250" text-anchor="middle" font-family="DejaVu Sans" font-size="34" fill="#fff">1. Какой основной сигнал?</text>
+        <text x="700" y="410" text-anchor="middle" font-family="DejaVu Sans" font-size="34" fill="#fff">2. Есть ли дополнительная секция?</text>
+        <text x="700" y="570" text-anchor="middle" font-family="DejaVu Sans" font-size="34" fill="#fff">3. В каком направлении она разрешает ехать?</text>
+        <text x="700" y="730" text-anchor="middle" font-family="DejaVu Sans" font-size="34" fill="#fff">4. Нужно ли уступить другим?</text>
+        
+</svg>

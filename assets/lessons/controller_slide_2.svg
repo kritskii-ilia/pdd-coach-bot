@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#f5f2ea"/>
+  <text x="700" y="78" text-anchor="middle" font-family="DejaVu Sans" font-size="42" font-weight="700" fill="#1f2b33">Регулировщик: руки в стороны</text>
+  
+        <rect x="90" y="130" width="560" height="760" rx="28" fill="#fffdf8" stroke="#d8ccb1" stroke-width="4"/>
+        
+    <circle cx="370" cy="310" r="30" fill="#f0c9a4" stroke="#1f2b33" stroke-width="8"/>
+    <line x1="370" y1="340" x2="370" y2="490" stroke="#1f2b33" stroke-width="16" stroke-linecap="round"/>
+    <line x1="370" y1="390" x2="220" y2="430" stroke="#1f2b33" stroke-width="16" stroke-linecap="round"/>
+    <line x1="370" y1="390" x2="520" y2="430" stroke="#1f2b33" stroke-width="16" stroke-linecap="round"/>
+    <line x1="370" y1="490" x2="315" y2="610" stroke="#1f2b33" stroke-width="16" stroke-linecap="round"/>
+    <line x1="370" y1="490" x2="425" y2="610" stroke="#1f2b33" stroke-width="16" stroke-linecap="round"/>
+    
+        <text x="760" y="220" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">С боков можно:</text>
+<text x="760" y="266" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">прямо и направо</text>
+        <text x="760" y="380" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">Со стороны груди и спины:</text>
+<text x="760" y="426" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">движение запрещено</text>
+        <text x="760" y="570" text-anchor="start" font-family="DejaVu Sans" font-size="28" fill="#1f2b33">Быстрый якорь:</text>
+<text x="760" y="612" text-anchor="start" font-family="DejaVu Sans" font-size="28" fill="#1f2b33">грудь и спина закрыты,</text>
+<text x="760" y="654" text-anchor="start" font-family="DejaVu Sans" font-size="28" fill="#1f2b33">бока открыты</text>
+        
+</svg>

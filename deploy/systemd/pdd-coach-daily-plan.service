@@ -1,0 +1,9 @@
+[Unit]
+Description=PDD Coach Daily Plan Dispatcher
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/user/pdd-coach-bot
+ExecStart=/home/user/pdd-coach-bot/scripts/run_daily_plan_tick.sh

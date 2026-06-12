@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#f7f0ed"/>
+  <text x="700" y="78" text-anchor="middle" font-family="DejaVu Sans" font-size="42" font-weight="700" fill="#1f2b33">Ж/д переезд: когда не выезжать</text>
+  
+        <line x1="170" y1="760" x2="1230" y2="760" stroke="#5b6166" stroke-width="16"/>
+        <line x1="170" y1="830" x2="1230" y2="830" stroke="#5b6166" stroke-width="16"/>
+        <rect x="230" y="320" width="240" height="36" rx="14" fill="#ffffff" stroke="#d9432c" stroke-width="10"/>
+        <line x1="230" y1="338" x2="470" y2="338" stroke="#d9432c" stroke-width="12"/>
+        <text x="600" y="250" text-anchor="start" font-family="DejaVu Sans" font-size="30" fill="#1f2b33">Не выезжай, если:</text>
+<text x="600" y="294" text-anchor="start" font-family="DejaVu Sans" font-size="30" fill="#1f2b33">шлагбаум закрыт или закрывается</text>
+<text x="600" y="338" text-anchor="start" font-family="DejaVu Sans" font-size="30" fill="#1f2b33">горит запрещающий сигнал</text>
+<text x="600" y="382" text-anchor="start" font-family="DejaVu Sans" font-size="30" fill="#1f2b33">есть дежурный с запретом</text>
+<text x="600" y="426" text-anchor="start" font-family="DejaVu Sans" font-size="30" fill="#1f2b33">затормозишь на путях из-за затора</text>
+        
+</svg>

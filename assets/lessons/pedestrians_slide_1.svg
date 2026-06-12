@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#edf5ef"/>
+  <text x="700" y="78" text-anchor="middle" font-family="DejaVu Sans" font-size="42" font-weight="700" fill="#1f2b33">Пешеходный переход</text>
+  
+        <rect x="120" y="200" width="1160" height="260" rx="28" fill="#4e5861"/>
+        <rect x="240" y="245" width="60" height="170" fill="#ffffff"/>
+        <rect x="380" y="245" width="60" height="170" fill="#ffffff"/>
+        <rect x="520" y="245" width="60" height="170" fill="#ffffff"/>
+        <rect x="660" y="245" width="60" height="170" fill="#ffffff"/>
+        <rect x="800" y="245" width="60" height="170" fill="#ffffff"/>
+        <rect x="940" y="245" width="60" height="170" fill="#ffffff"/>
+        <circle cx="620" cy="290" r="22" fill="#2c8b72"/>
+        <line x1="620" y1="312" x2="620" y2="372" stroke="#2c8b72" stroke-width="12"/>
+        <line x1="620" y1="336" x2="580" y2="360" stroke="#2c8b72" stroke-width="12"/>
+        <line x1="620" y1="336" x2="660" y2="360" stroke="#2c8b72" stroke-width="12"/>
+        <line x1="620" y1="372" x2="590" y2="420" stroke="#2c8b72" stroke-width="12"/>
+        <line x1="620" y1="372" x2="650" y2="420" stroke="#2c8b72" stroke-width="12"/>
+        <text x="700" y="560" text-anchor="middle" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">Если пешеход уже идёт или только вступил на проезжую часть,</text>
+<text x="700" y="606" text-anchor="middle" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">ты обязан уступить</text>
+        <text x="700" y="720" text-anchor="middle" font-family="DejaVu Sans" font-size="28" fill="#1f2b33">Если машина впереди тормозит перед переходом,</text>
+<text x="700" y="762" text-anchor="middle" font-family="DejaVu Sans" font-size="28" fill="#1f2b33">считай ситуацию потенциально опасной</text>
+        
+</svg>

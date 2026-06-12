@@ -1,0 +1,10 @@
+[Unit]
+Description=Run PDD Coach daily plan dispatcher every 15 minutes
+
+[Timer]
+OnBootSec=2min
+OnUnitActiveSec=15min
+Unit=pdd-coach-daily-plan.service
+
+[Install]
+WantedBy=timers.target

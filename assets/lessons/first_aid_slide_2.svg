@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#eef3f6"/>
+  <text x="700" y="78" text-anchor="middle" font-family="DejaVu Sans" font-size="42" font-weight="700" fill="#1f2b33">Первая помощь: типичные ошибки</text>
+  
+        <circle cx="280" cy="300" r="130" fill="#d9432c"/>
+        <line x1="190" y1="390" x2="370" y2="210" stroke="#ffffff" stroke-width="28"/>
+        <text x="520" y="240" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">Не вытаскивай человека из машины без крайней нужды</text>
+        <text x="520" y="380" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">Не начинай с «лечения», если место небезопасно</text>
+        <text x="520" y="520" text-anchor="start" font-family="DejaVu Sans" font-size="30" fill="#1f2b33">На экзамене выигрывает порядок действий,</text>
+<text x="520" y="564" text-anchor="start" font-family="DejaVu Sans" font-size="30" fill="#1f2b33">а не медицинские детали</text>
+        
+</svg>

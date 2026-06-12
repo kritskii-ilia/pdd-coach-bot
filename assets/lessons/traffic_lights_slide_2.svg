@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#eef4f1"/>
+  <text x="700" y="78" text-anchor="middle" font-family="DejaVu Sans" font-size="42" font-weight="700" fill="#1f2b33">Светофор: допсекция</text>
+  
+        <rect x="170" y="220" width="260" height="520" rx="38" fill="#222831"/>
+        <circle cx="300" cy="410" r="72" fill="#d93b2d"/>
+        <rect x="520" y="280" width="250" height="260" rx="32" fill="#222831"/>
+        <polygon points="610,360 700,410 610,460" fill="#2ca25f"/>
+        <text x="860" y="320" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">Стрелка горит:</text>
+<text x="860" y="366" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">ехать можно только</text>
+<text x="860" y="412" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">в указанном направлении</text>
+        <text x="860" y="520" text-anchor="start" font-family="DejaVu Sans" font-size="28" fill="#1f2b33">Если основной красный или жёлтый:</text>
+<text x="860" y="562" text-anchor="start" font-family="DejaVu Sans" font-size="28" fill="#1f2b33">обязан уступить тем,</text>
+<text x="860" y="604" text-anchor="start" font-family="DejaVu Sans" font-size="28" fill="#1f2b33">кто едет на свой разрешающий</text>
+        
+</svg>

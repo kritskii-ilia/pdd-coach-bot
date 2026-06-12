@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#eef4f1"/>
+  <text x="700" y="78" text-anchor="middle" font-family="DejaVu Sans" font-size="42" font-weight="700" fill="#1f2b33">Светофор: базовые сигналы</text>
+  
+        <rect x="150" y="160" width="260" height="620" rx="42" fill="#222831"/>
+        <circle cx="280" cy="290" r="76" fill="#d93b2d"/>
+        <circle cx="280" cy="470" r="76" fill="#f0c419"/>
+        <circle cx="280" cy="650" r="76" fill="#2ca25f"/>
+        <text x="520" y="300" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">Красный / красный+жёлтый: стоим</text>
+        <text x="520" y="470" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">Жёлтый: обычно стоим,</text>
+<text x="520" y="516" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">кроме безопасного завершения</text>
+        <text x="520" y="660" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">Зелёный: движение разрешено</text>
+        
+</svg>

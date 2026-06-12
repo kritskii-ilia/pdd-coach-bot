@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <rect width="1400" height="1000" fill="#f5f2ea"/>
+  <text x="700" y="78" text-anchor="middle" font-family="DejaVu Sans" font-size="42" font-weight="700" fill="#1f2b33">Перекрёсток: типичная ловушка</text>
+  
+        <rect x="200" y="220" width="1000" height="120" rx="20" fill="#5a6168"/>
+        <rect x="640" y="120" width="120" height="760" rx="20" fill="#5a6168"/>
+        <rect x="648" y="130" width="104" height="740" fill="#707980"/>
+        <rect x="210" y="228" width="980" height="104" fill="#707980"/>
+        <polygon points="520,540 610,500 610,580" fill="#2c8b72"/>
+        <polygon points="880,500 790,540 790,460" fill="#456b8c"/>
+        <text x="170" y="730" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">При левом повороте не забывай:</text>
+<text x="170" y="776" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">встречный, который едет прямо</text>
+<text x="170" y="822" text-anchor="start" font-family="DejaVu Sans" font-size="32" fill="#1f2b33">или направо, имеет приоритет</text>
+        
+</svg>
